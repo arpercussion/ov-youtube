@@ -6,7 +6,7 @@
  * Youtube IFrame Embed API Angular wrapper
  * For 'playerVars' see: https://developers.google.com/youtube/player_parameters?playerVersion=HTML5#Parameters
  */
-angular.module('ov.directives')
+angular.module('ov.directives', [])
     .constant('YT_STATUS', { // YOUTUBE Constants
         UNSTARTED: -1,
         ENDED: 0,
