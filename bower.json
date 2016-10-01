@@ -1,6 +1,7 @@
 {
   "name": "ov-youtube",
   "version": "0.0.0",
+  "description": "Wrapper for embedded Youtube Player",
   "appPath": "src",
   "main": [
     "./dist/ov-youtube.js"
